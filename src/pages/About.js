@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "../Components/Navbar"
-import { Link } from "react-router-dom";
 import "./style.css";
 
 function About() {
@@ -34,9 +33,9 @@ function About() {
                 <div className="row mb-5">
                     <ul id="contact">
                         <li>
-                            <Link to="https://github.com/aarkitekkt"><img className="contact mr-3"
+                            <a href="https://github.com/aarkitekkt"><img className="contact mr-3"
                                 src="./assets/images/GitHub-Mark-Light-32px.png" alt="" /><span
-                                    className="text-white">github.com/aarkitekkt</span></Link>
+                                    className="text-white">github.com/aarkitekkt</span></a>
                         </li>
                         <li>
                             <img className="contact mr-3" src="./assets/images/mailIcon.png" alt="" /><span
@@ -47,13 +46,13 @@ function About() {
                                 className="text-white">801-808-5534</span>
                         </li>
                         <li>
-                            <Link to="./assets/images/BryceJohnson_resume.pdf" download><img class="contact mr-3"
-                                src="./assets/images/resumeIcon.png" alt="" /><span class="text-white">resume</span></Link>
+                            <a href="./assets/images/BryceJohnson_resume.pdf" download><img class="contact mr-3"
+                                src="./assets/images/resumeIcon.png" alt="" /><span class="text-white">resume</span></a>
                         </li>
                         <li>
-                            <Link to="https://www.linkedin.com/in/aarkitekkt/"><img class="contact mr-3"
+                            <a href="https://www.linkedin.com/in/aarkitekkt/"><img class="contact mr-3"
                                 src="./assets/images/LI-In-Bug_white.png" alt="" /><span
-                                    class="text-white">linkedin.com/in.aarkitekkt</span></Link>
+                                    class="text-white">linkedin.com/in.aarkitekkt</span></a>
                         </li>
                     </ul>
                 </div>

@@ -1,31 +1,15 @@
-import React, { Component } from "react";
-import Tile from "../Components/Tile"
-import projects from "../projects.json";
+import React from "react";
 
-class Tiles extends Component {
 
-    state = {
-        projects
-    };
+function Tiles(props) {
 
-    render() {
-        return (
-            <div id="work" className="container mt-5" >
-                <div id="projectTiles" className="d-flex flex-wrap justify-content-center mt-5 mx-auto">
-                    {
-                        this.state.projects.map(project => (
-                            <Tile
-                                ID={project.ID}
-                                Icon={project.Icon}
-                                Tile={project.Tile}
-                                Project={project.Project}
-                            />
-                        ))
-                    }
-                </div>
+    return (
+        <div id="work" className="container mt-5" >
+            <div id="projectTiles" className="d-flex flex-wrap justify-content-center mt-5 mx-auto">
+                {props.children}
             </div>
-        )
-    }
-};
+        </div>
+    )
+}
 
 export default Tiles;
