@@ -1,30 +1,17 @@
-import React, { Component } from "react";
-import Tile from "../Components/Tile"
+import React from "react";
+import Tiles from "../Components/Tiles"
+import Navbar from "../Components/Navbar"
 import "./style.css";
-import projects from "../projects.json";
 
-class Work extends Component {
 
-    state = {
-        projects
-    };
+function Work() {
 
-    render() {
-        return (
-            <div id="projectTiles" className="container mt-5" >
-                {
-                    this.state.projects.map(project => (
-                        <Tile
-                            ID={project.ID}
-                            Icon={projects.Icon}
-                            Tile={project.Tile}
-                            Project={project.Project}
-                        />
-                    ))
-                }
-            </div>
-        )
-    }
+    return (
+        <div>
+            <Navbar />
+            <Tiles />
+        </div>
+    )
 };
 
 export default Work;
