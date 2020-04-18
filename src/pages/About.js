@@ -1,9 +1,10 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "./style.css";
 
 function About() {
     return (
-        <div id="about" className="container mt-5">
+        <div id="about" className="container mt-5" style={{ background: "#000000" }}>
             <div className="row mb-5">
                 <div id="pic" className="col-12 col-md-4">
                     <img id="profilePic" className="mb-5" src="./assets/images/profilePic_sml.png" alt="Profile Pic" />
@@ -32,7 +33,7 @@ function About() {
                     <li>
                         <Link to="https://github.com/aarkitekkt"><img className="contact mr-3"
                             src="./assets/images/GitHub-Mark-Light-32px.png" alt="" /><span
-                                class="text-white">github.com/aarkitekkt</span></Link>
+                                className="text-white">github.com/aarkitekkt</span></Link>
                     </li>
                     <li>
                         <img className="contact mr-3" src="./assets/images/mailIcon.png" alt="" /><span
@@ -54,7 +55,7 @@ function About() {
                 </ul>
             </div>
 
-        </div>
+        </div >
     )
 };
 
