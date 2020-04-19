@@ -37,29 +37,29 @@
         "Project": "Should I go skiing today?",
         "URL": "https://aarkitekkt.github.io/Ski_Resort_Weather_Report/",
         "Github": "https://github.com/aarkitekkt/Ski_Resort_Weather_Report",
-        "ImageUrl": "./assets/images/skiCapture.JPG",
+        "ImageUrl": "./assets/images/skiCapture.jpg",
         "GitHubIcon": "./assets/images/GitHub-Mark-Light-32px.png",
         "UrlIcon": "./assets/images/linkIcon.png",
         "Icon": "./assets/images/devIcon.png",
-        "Tile": "./assets/images/skiSml.JPG"
+        "Tile": "./assets/images/skiSml.jpg"
     },
     {
         "ID": "weather",
         "Project": "Weather Dashboard",
         "URL": "https://aarkitekkt.github.io/weather-dashboard/",
         "Github": "https://github.com/aarkitekkt/weather-dashboard",
-        "ImageUrl": "./assets/images/weatherCapture.JPG",
+        "ImageUrl": "./assets/images/weatherCapture.jpg",
         "GitHubIcon": "./assets/images/GitHub-Mark-Light-32px.png",
         "UrlIcon": "./assets/images/linkIcon.png",
         "Icon": "./assets/images/devIcon.png",
-        "Tile": "./assets/images/weatherSml.JPG"
+        "Tile": "./assets/images/weatherSml.jpg"
     },
     {
         "ID": "password",
         "Project": "Password Generator",
         "URL": "https://aarkitekkt.github.io/password-generator/",
         "Github": "https://github.com/aarkitekkt/password-generator",
-        "ImageUrl": "./assets/images/passwordCapture.JPG",
+        "ImageUrl": "./assets/images/passwordCapture.jpg",
         "GitHubIcon": "./assets/images/GitHub-Mark-Light-32px.png",
         "UrlIcon": "./assets/images/linkIcon.png",
         "Icon": "./assets/images/devIcon.png",
@@ -103,7 +103,7 @@
         "Project": "sne iPad Stand",
         "URL": "",
         "Github": "",
-        "ImageUrl": "./assets/images/sne_1.JPG",
+        "ImageUrl": "./assets/images/sne_1.jpg",
         "GitHubIcon": "",
         "UrlIcon": "",
         "Icon": "./assets/images/builtIcon.png",
