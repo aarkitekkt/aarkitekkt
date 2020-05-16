@@ -9,11 +9,45 @@ function Home() {
                 <img id="logo" className="mx-auto mb-4" src="./assets/images/bj_logo_grey.png" alt="logo" />
             </div>
             <div className="row">
-                <h3 className="mx-auto mb-5">bryce johnson</h3>
+                <h3 className="mx-auto mb-5 text-light">bryce johnson</h3>
             </div>
             <div id="buttonRow" className="d-flex justify-content-center">
-                <Link to="./work" className="mx-3 btn btn-outline-dark">work</Link>
-                <Link to="./about" className="mx-3 btn btn-outline-dark">about</Link>
+                <Link to="./dev" className="mx-3">
+                    <div className="navIcon">
+                        <img id="devButton" src="./assets/images/devIcon.png" alt="dev" />
+                        <div className="navOverlay">
+                            <div className="text">dev
+                            </div>
+                        </div>
+                    </div>
+                </Link>
+                <Link to="./3d" className="mx-3">
+                    <div className="navIcon">
+                        <img id="3dButton" src="./assets/images/3dIcon.png" alt="3d" />
+                        <div className="navOverlay">
+                            <div className="text">3d
+                            </div>
+                        </div>
+                    </div>
+                </Link>
+                <Link to="./built" className="mx-3">
+                    <div className="navIcon">
+                        <img id="builtButton" src="./assets/images/builtIcon.png" alt="built" />
+                        <div className="navOverlay">
+                            <div className="text">built
+                            </div>
+                        </div>
+                    </div>
+                </Link>
+                <Link to="./about" className="mx-3">
+                    <div className="navIcon">
+                        <img id="aboutButton" src="./assets/images/aboutIcon.png" alt="about" />
+                        <div className="navOverlay">
+                            <div className="text">about
+                            </div>
+                        </div>
+                    </div>
+                </Link>
             </div>
         </div>
     )

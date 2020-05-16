@@ -1,0 +1,73 @@
+[
+    {
+        "ID": "earthquake",
+        "Project": "Earthquake Tracker",
+        "URL": "https://epicenter-earthquake-tracker.herokuapp.com/",
+        "Github": "https://github.com/aarkitekkt/Earthquake-Tracker",
+        "ImageUrl": "./assets/images/EarthquakeLrg.png",
+        "GitHubIcon": "./assets/images/GitHub-Mark-Light-32px.png",
+        "UrlIcon": "./assets/images/linkIcon.png",
+        "Icon": "./assets/images/devIcon.png",
+        "Tile": "./assets/images/QuakeSml.jpg",
+        "Description": "Full-Stack Application to allow the user serach earthquake data",
+        "Tech": [
+            "Node Js",
+            "JQuery",
+            "Bootstrap",
+            "MongoDB",
+            "Express"
+        ]
+    },
+    {
+        "ID": "workout",
+        "Project": "Workout Tracker",
+        "URL": "https://aarkitekkt-workout.herokuapp.com/",
+        "Github": "https://github.com/aarkitekkt/workout-tracker",
+        "ImageUrl": "./assets/images/WorkoutLrg.png",
+        "GitHubIcon": "./assets/images/GitHub-Mark-Light-32px.png",
+        "UrlIcon": "./assets/images/linkIcon.png",
+        "Icon": "./assets/images/devIcon.png",
+        "Tile": "./assets/images/workoutSml.png",
+        "Description": "Full-Stack Application to allow the user to create, save, and edit their workouts",
+        "Tech": [
+            "Node Js",
+            "JQuery",
+            "Bootstrap",
+            "MongoDB",
+            "Express"
+        ]
+    },
+    {
+        "ID": "laptops",
+        "Project": "Laptop Marketplace",
+        "URL": "https://aqueous-beach-33300.herokuapp.com/",
+        "Github": "https://github.com/aarkitekkt/brb-laptops",
+        "ImageUrl": "./assets/images/LaptopsLrg.png",
+        "GitHubIcon": "./assets/images/GitHub-Mark-Light-32px.png",
+        "UrlIcon": "./assets/images/linkIcon.png",
+        "Icon": "./assets/images/devIcon.png",
+        "Tile": "./assets/images/laptopsSml.png"
+    },
+    {
+        "ID": "ski",
+        "Project": "Should I go skiing today?",
+        "URL": "https://aarkitekkt.github.io/Ski_Resort_Weather_Report/",
+        "Github": "https://github.com/aarkitekkt/Ski_Resort_Weather_Report",
+        "ImageUrl": "./assets/images/SkiLrg.png",
+        "GitHubIcon": "./assets/images/GitHub-Mark-Light-32px.png",
+        "UrlIcon": "./assets/images/linkIcon.png",
+        "Icon": "./assets/images/devIcon.png",
+        "Tile": "./assets/images/skiSml.jpg"
+    },
+    {
+        "ID": "weather",
+        "Project": "Weather Dashboard",
+        "URL": "https://aarkitekkt.github.io/weather-dashboard/",
+        "Github": "https://github.com/aarkitekkt/weather-dashboard",
+        "ImageUrl": "./assets/images/weatherCapture.jpg",
+        "GitHubIcon": "./assets/images/GitHub-Mark-Light-32px.png",
+        "UrlIcon": "./assets/images/linkIcon.png",
+        "Icon": "./assets/images/devIcon.png",
+        "Tile": "./assets/images/weatherSml.jpg"
+    }
+]

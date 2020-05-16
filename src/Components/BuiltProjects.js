@@ -2,10 +2,10 @@ import React, { Component } from "react";
 import Project from "./Project";
 import Tiles from "./Tiles";
 import Tile from "./Tile";
-import projectList from "../projects.json";
+import projectList from "../built.json";
 
 
-class Projects extends Component {
+class BuiltProjects extends Component {
 
     state = {
         projects: projectList,
@@ -25,8 +25,6 @@ class Projects extends Component {
         console.log(current);
 
         this.setState({ currentProject: current[0] })
-
-
     }
 
     render() {
@@ -58,4 +56,4 @@ class Projects extends Component {
     }
 }
 
-export default Projects;
+export default BuiltProjects;

@@ -1,0 +1,35 @@
+[
+    {
+        "ID": "phone",
+        "Project": "Mobile Phone Rendering",
+        "URL": "",
+        "Github": "",
+        "ImageUrl": "./assets/images/phone_2.jpg",
+        "GitHubIcon": "",
+        "UrlIcon": "",
+        "Icon": "./assets/images/3dIcon.png",
+        "Tile": "./assets/images/phoneSml.jpg"
+    },
+    {
+        "ID": "intRender",
+        "Project": "Interior Architectural Rendering",
+        "URL": "",
+        "Github": "",
+        "ImageUrl": "./assets/images/Atrium-comp-d3.jpg",
+        "GitHubIcon": "",
+        "UrlIcon": "",
+        "Icon": "./assets/images/3dIcon.png",
+        "Tile": "./assets/images/intSml.jpg"
+    },
+    {
+        "ID": "sunglasses",
+        "Project": "Sunglasses Animation",
+        "URL": "",
+        "Github": "",
+        "ImageUrl": "./assets/images/sunglass_2.png",
+        "GitHubIcon": "",
+        "UrlIcon": "",
+        "Icon": "./assets/images/3dIcon.png",
+        "Tile": "./assets/images/sunSml.png"
+    }
+]
