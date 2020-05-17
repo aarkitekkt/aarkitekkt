@@ -12,7 +12,7 @@ function Home() {
                 <h3 className="mx-auto mb-5 text-light">bryce johnson</h3>
             </div>
             <div id="buttonRow" className="d-flex justify-content-center">
-                <Link to="./dev" className="mx-3">
+                <Link to="./dev" className="mx-2">
                     <div className="navIcon">
                         <img id="devButton" src="./assets/images/devIcon.png" alt="dev" />
                         <div className="navOverlay">
@@ -21,7 +21,7 @@ function Home() {
                         </div>
                     </div>
                 </Link>
-                <Link to="./3d" className="mx-3">
+                <Link to="./3d" className="mx-2">
                     <div className="navIcon">
                         <img id="3dButton" src="./assets/images/3dIcon.png" alt="3d" />
                         <div className="navOverlay">
@@ -30,7 +30,7 @@ function Home() {
                         </div>
                     </div>
                 </Link>
-                <Link to="./built" className="mx-3">
+                <Link to="./built" className="mx-2">
                     <div className="navIcon">
                         <img id="builtButton" src="./assets/images/builtIcon.png" alt="built" />
                         <div className="navOverlay">
@@ -39,7 +39,7 @@ function Home() {
                         </div>
                     </div>
                 </Link>
-                <Link to="./about" className="mx-3">
+                <Link to="./about" className="mx-2">
                     <div className="navIcon">
                         <img id="aboutButton" src="./assets/images/aboutIcon.png" alt="about" />
                         <div className="navOverlay">

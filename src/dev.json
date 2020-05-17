@@ -9,13 +9,16 @@
         "UrlIcon": "./assets/images/linkIcon.png",
         "Icon": "./assets/images/devIcon.png",
         "Tile": "./assets/images/QuakeSml.jpg",
-        "Description": "Full-Stack Application to allow the user serach earthquake data",
+        "Description": "Front-end development and UI design of a full-stack web application that allows a user to search for earthquake data for a specific location. A map is displays the searched location as well as the location of recent earthquake events returned from the search. Additional information about each returned earthquake event is also displayed. All of this information is displayed on the page in an easy to read dashboard format. Completed in collaboration with two other students.",
         "Tech": [
-            "Node Js",
-            "JQuery",
-            "Bootstrap",
-            "MongoDB",
-            "Express"
+            "React, ",
+            "Node Js, ",
+            "JQuery, ",
+            "Bootstrap CSS Framework, ",
+            "MongoDB, ",
+            "Express, ",
+            "Google Maps API, ",
+            "Auth0 Authentication"
         ]
     },
     {
@@ -28,12 +31,12 @@
         "UrlIcon": "./assets/images/linkIcon.png",
         "Icon": "./assets/images/devIcon.png",
         "Tile": "./assets/images/workoutSml.png",
-        "Description": "Full-Stack Application to allow the user to create, save, and edit their workouts",
+        "Description": "Full-stack web application to allow the user to create, save, and edit their workouts. Users are able to select a previous workout or create a new workout.  Exercises can then be added to each workout along with information about each exercise.",
         "Tech": [
-            "Node Js",
-            "JQuery",
-            "Bootstrap",
-            "MongoDB",
+            "Node Js, ",
+            "JQuery, ",
+            "Bootstrap, ",
+            "MongoDB, ",
             "Express"
         ]
     },
@@ -46,7 +49,16 @@
         "GitHubIcon": "./assets/images/GitHub-Mark-Light-32px.png",
         "UrlIcon": "./assets/images/linkIcon.png",
         "Icon": "./assets/images/devIcon.png",
-        "Tile": "./assets/images/laptopsSml.png"
+        "Tile": "./assets/images/laptopsSml.png",
+        "Description": "Back-end development of a full-stack web application that allows users to post laptops for sale.  A form allows users to add their contact information, the specifications for the laptop that they would like to sell, and a photo of the laptop. The home page displays the collection of laptops for sale and when clicked on, expands to provide further details. A filter allows the user to browse by their preferred operation system. Completed with a group of two other students.",
+        "Tech": [
+            "Node Js, ",
+            "JQuery, ",
+            "Materialize CSS Framework, ",
+            "MySQL, ",
+            "Express, ",
+            "Firebase"
+        ]
     },
     {
         "ID": "ski",
@@ -57,17 +69,14 @@
         "GitHubIcon": "./assets/images/GitHub-Mark-Light-32px.png",
         "UrlIcon": "./assets/images/linkIcon.png",
         "Icon": "./assets/images/devIcon.png",
-        "Tile": "./assets/images/skiSml.jpg"
-    },
-    {
-        "ID": "weather",
-        "Project": "Weather Dashboard",
-        "URL": "https://aarkitekkt.github.io/weather-dashboard/",
-        "Github": "https://github.com/aarkitekkt/weather-dashboard",
-        "ImageUrl": "./assets/images/weatherCapture.jpg",
-        "GitHubIcon": "./assets/images/GitHub-Mark-Light-32px.png",
-        "UrlIcon": "./assets/images/linkIcon.png",
-        "Icon": "./assets/images/devIcon.png",
-        "Tile": "./assets/images/weatherSml.jpg"
+        "Tile": "./assets/images/skiSml.jpg",
+        "Description": "Front-end development and UI design of a web application that allows a user to quicky check the conditions of thier preferred ski resort to help determine if they should go skiing that day.  When a resort is selected, weather and snow data are retrieved and displayed in an easy to read format along with the google map location and twitter feed of their chosen resort.  Due to API limitations, the app is built to only function for one resort at this time. Completed in collaboration with two other students.",
+        "Tech": [
+            "JQuery, ",
+            "Materialize CSS Framework, ",
+            "Google Maps API, ",
+            "Weather Unlocked API, ",
+            "Twitter Open API"
+        ]
     }
 ]

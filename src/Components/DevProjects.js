@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Project from "./Project";
+import DevProject from "./Project";
 import Tiles from "./Tiles";
 import Tile from "./Tile";
 import projectList from "../dev.json";
@@ -31,12 +31,15 @@ class DevProjects extends Component {
         return (
             <div>
 
-                <Project
+                <DevProject
                     ImageUrl={this.state.currentProject.ImageUrl}
                     Github={this.state.currentProject.Github}
                     GitHubIcon={this.state.currentProject.GitHubIcon}
                     URL={this.state.currentProject.URL}
                     UrlIcon={this.state.currentProject.UrlIcon}
+                    ProjectName={this.state.currentProject.Project}
+                    Description={this.state.currentProject.Description}
+                    Tech={this.state.currentProject.Tech}
                 />
                 <Tiles>
                     {

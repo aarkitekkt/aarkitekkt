@@ -1,7 +1,7 @@
 import React from "react";
 
 
-function Project(props) {
+function DevProject(props) {
     return (
         <div id="project" className="d-flex flex-column flex-lg-row mx-0 justify-content-center py-4">
 
@@ -19,6 +19,10 @@ function Project(props) {
                         <h4>Tech Used</h4>
                         {props.Tech}
                     </li>
+                    <li className="list-group-item bg-dark">
+                        <a id="gitLink" href={props.Github}><img id="gitHubIcon" className="mx-2" src={props.GitHubIcon} alt="" /></a>
+                        <a id="urlLink" href={props.URL}><img id="UrlIcon" className="mx-2" src={props.UrlIcon} alt="" /></a>
+                    </li>
                 </ul>
             </div>
 
@@ -27,4 +31,4 @@ function Project(props) {
     )
 };
 
-export default Project;
+export default DevProject;

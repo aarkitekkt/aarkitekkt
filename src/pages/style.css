@@ -21,7 +21,7 @@ h3 {
 }
 
 #navLogo{
-    height: 40px;    
+    height: 55px;    
 }
 
 #navLinkedIn {
@@ -48,7 +48,7 @@ h3 {
 
 .text {
     color: white;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 125%;
     position: absolute;
     top: 50%;
@@ -89,7 +89,7 @@ h3 {
 }
 
 .navIcon:hover .navOverlay {
-    opacity: .95;
+    opacity: 1;
   }
 
 .navOverlay {
@@ -103,11 +103,18 @@ h3 {
     opacity: 0;
     transition: .5s ease;
     border-radius: 8px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #999999;
     background-color: #383337;
 }
 
 #projectTiles {
     max-width: 700px;    
+}
+
+#projectDescription {
+    height: 100%;
 }
 
 .Icon {

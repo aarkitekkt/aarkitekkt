@@ -2,22 +2,20 @@
     {
         "ID": "phone",
         "Project": "Mobile Phone Rendering",
-        "URL": "",
-        "Github": "",
         "ImageUrl": "./assets/images/phone_2.jpg",
-        "GitHubIcon": "",
-        "UrlIcon": "",
-        "Icon": "./assets/images/3dIcon.png",
-        "Tile": "./assets/images/phoneSml.jpg"
+        "Tile": "./assets/images/phoneSml.jpg",
+        "Description": "Design, modeling, and rendering of mobile phones using particle effect simulations",
+        "Tech": [
+            "Blender 3d, ",
+            "Rhino 3d, ",
+            "Illustrator, ",
+            "Photoshop"
+        ]
     },
     {
         "ID": "intRender",
         "Project": "Interior Architectural Rendering",
-        "URL": "",
-        "Github": "",
         "ImageUrl": "./assets/images/Atrium-comp-d3.jpg",
-        "GitHubIcon": "",
-        "UrlIcon": "",
         "Icon": "./assets/images/3dIcon.png",
         "Tile": "./assets/images/intSml.jpg"
     },
