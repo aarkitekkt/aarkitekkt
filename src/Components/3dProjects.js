@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Project from "./Project";
+import ThreeDProject from "./3dProject";
 import Tiles from "./Tiles";
 import Tile from "./Tile";
 import projectList from "../3d.json";
@@ -31,11 +31,9 @@ class ThreeDProjects extends Component {
         return (
             <div>
 
-                <Project
+                <ThreeDProject
                     ImageUrl={this.state.currentProject.ImageUrl}
                     ProjectName={this.state.currentProject.Project}
-                    Description={this.state.currentProject.Description}
-                    Tech={this.state.currentProject.Tech}
                 />
                 <Tiles>
                     {

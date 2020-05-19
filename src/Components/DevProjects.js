@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import DevProject from "./Project";
+import DevProject from "./DevProject";
 import Tiles from "./Tiles";
 import Tile from "./Tile";
 import projectList from "../dev.json";

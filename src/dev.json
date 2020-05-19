@@ -1,7 +1,7 @@
 [
     {
         "ID": "earthquake",
-        "Project": "Earthquake Tracker",
+        "Project": "Epicenter Earthquake Data",
         "URL": "https://epicenter-earthquake-tracker.herokuapp.com/",
         "Github": "https://github.com/aarkitekkt/Earthquake-Tracker",
         "ImageUrl": "./assets/images/EarthquakeLrg.png",

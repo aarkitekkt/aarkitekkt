@@ -2,13 +2,13 @@
     {
         "ID": "sne",
         "Project": "sne iPad Stand",
-        "URL": "",
-        "Github": "",
         "ImageUrl": "./assets/images/sne_1.jpg",
-        "GitHubIcon": "",
-        "UrlIcon": "",
-        "Icon": "./assets/images/builtIcon.png",
-        "Tile": "./assets/images/sneSml.jpg"
+        "Tile": "./assets/images/sneSml.jpg",
+        "Description": "",
+        "Tech": [
+            "Blender 3d, ",
+            "Rhino 3d, "
+        ]
     },
     {
         "ID": "strata",
