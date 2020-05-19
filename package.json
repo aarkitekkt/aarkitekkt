@@ -1,5 +1,6 @@
 {
   "name": "aarkitekkt",
+  "homepage": "http://aarkitekkt.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
