@@ -33,10 +33,8 @@ class BuiltProjects extends Component {
 
                 <Project
                     ImageUrl={this.state.currentProject.ImageUrl}
-                    Github={this.state.currentProject.Github}
-                    GitHubIcon={this.state.currentProject.GitHubIcon}
-                    URL={this.state.currentProject.URL}
-                    UrlIcon={this.state.currentProject.UrlIcon}
+                    ProjectName={this.state.currentProject.Project}
+                    Description={this.state.currentProject.Description}
                 />
                 <Tiles>
                     {

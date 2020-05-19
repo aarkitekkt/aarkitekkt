@@ -15,10 +15,6 @@ function Project(props) {
                         <h4>{props.ProjectName}</h4>
                         {props.Description}
                     </li>
-                    <li className="list-group-item bg-dark">
-                        <h4>Tech Used</h4>
-                        {props.Tech}
-                    </li>
                 </ul>
             </div>
 
