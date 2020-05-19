@@ -10,7 +10,7 @@ function Dev() {
         <div>
             <Navbar />
             <div className="d-flex flex-row justify-content-center mb-3">
-                <h3 id="projectTitle" class="text-white mt-5">Development Work</h3>
+                <h3 id="projectTitle" class="text-white mt-5">dev</h3>
             </div>
             <DevProjects />
         </div>
