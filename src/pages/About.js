@@ -46,7 +46,7 @@ function About() {
                                 className="text-white">801-808-5534</span>
                         </li>
                         <li>
-                            <a href="./assets/images/BryceJohnson_resume.pdf" download><img class="contact mr-3"
+                            <a href="./assets/images/BryceJohnson-resume.pdf" download><img class="contact mr-3"
                                 src="./assets/images/resumeIcon.png" alt="" /><span class="text-white">resume</span></a>
                         </li>
                         <li>

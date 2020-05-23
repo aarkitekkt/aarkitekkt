@@ -12,8 +12,34 @@
     /* Photo by Lum3n.com from Pexels */
 
 #logo {
-    width: 100px;
-    height:100px;
+    width: 300px;
+    height: 150px;
+    animation: height 5s;
+}
+
+@keyframes height {
+    0% {
+        height: 300px;
+    }
+
+    76% {
+        height: 300px;
+    }
+}
+
+#bryce, #buttonRow {
+    animation: bryce 5s;
+    opacity: 1;
+}
+
+@keyframes bryce {
+    0% {
+        opacity: 0;
+    }
+
+    76% {
+        opacity: 0;
+    }
 }
 
 h3 {
