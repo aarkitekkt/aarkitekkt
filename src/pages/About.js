@@ -14,15 +14,7 @@ function About() {
                     <div className="col-12 col-md-8">
                         <h3 className="text-white">about me</h3>
 
-                        <p className="text-white">I am a Designer, 3D Artist, and aspiring Developer living in Salt Lake City.
-                        After earning a
-                        Master of Architecture in
-                        2011, I began working in a small studio where I teamed up with a few other talented designers to
-                        complete works in a
-                        variety of disciplines. While I specialized in 3D rendering and animation at Freehive, I have
-                        completed
-                        projects in graphic design, product design, and industrial design.
-                    </p>
+                        <p className="text-white">I’m a full stack developer with an emphasis on front end development and a background in architecture and design. With a Full Stack Web Development certificate, a Master of Architecture, and professional experience in graphic design, industrial design, and 3D rendering/animation, I am adaptable and always looking to develop new skills in order to create user-focused experiences.  My strength is being able to combine design-thinking and problem solving with the willingness to learn new skills in order to produce creative outcomes.  Working alongside many talented students and design professionals, I have completed a variety of projects including building a web application to track earthquake data, designing a system to rapidly prototype and build a series of iPad enclosures, creating 3d animations to play inside convenience stores, and building a home for a family on the Navajo Indian Reservation in southeastern Utah. </p>
                         <p className="text-white">
                             In addition to my love of design, I am an avid hiker, skier, three-time marathoner, and a huge
                             soccer fan. I enjoy exploring the outdoors, working on my house, and watching soccer games with
