@@ -2,71 +2,71 @@
     {
         "ID": "sne",
         "Project": "sne iPad Stand",
-        "ImageUrl": "./assets/images/sne_1.jpg",
-        "Tile": "./assets/images/sneSml.jpg",
+        "ImageUrl": "./assets/images/built/sne_1.jpg",
+        "Tile": "./assets/images/built/sneSml.jpg",
         "Description": "Design, prototyping, and fabrication drawings for a formed plywood iPad stand. Designed in collaboration with Ryan Gorley at Dijt(now Freehive).  Hand-made in Salt Lake City."
     },
     {
         "ID": "sne2",
         "Project": "sne iPad Stand",
-        "ImageUrl": "./assets/images/1.jpg",
-        "Tile": "./assets/images/1SML.png",
+        "ImageUrl": "./assets/images/built/1.jpg",
+        "Tile": "./assets/images/built/1SML.png",
         "Description": "Design, prototyping, and fabrication drawings for a formed plywood iPad stand. Designed in collaboration with Ryan Gorley at Dijt(now Freehive).  Hand-made in Salt Lake City."
     },
     {
         "ID": "sne3",
         "Project": "sne iPad Stand",
-        "ImageUrl": "./assets/images/9.jpg",
-        "Tile": "./assets/images/9SML.png",
+        "ImageUrl": "./assets/images/built/9.jpg",
+        "Tile": "./assets/images/built/9SML.png",
         "Description": "Design, prototyping, and fabrication drawings for a formed plywood iPad stand. Designed in collaboration with Ryan Gorley at Dijt(now Freehive).  Hand-made in Salt Lake City."
     },
     {
         "ID": "strata",
         "Project": "Strata iPad Enclosure",
-        "ImageUrl": "./assets/images/strata_1.jpg",
-        "Tile": "./assets/images/strataSml.jpg",
+        "ImageUrl": "./assets/images/built/strata_1.jpg",
+        "Tile": "./assets/images/built/strataSml.jpg",
         "Description": "Design, prototyping, and fabrication drawings for a series of tamper-proof tablet enclosure designed for multiple tablets and credit card readers. Designed in collaboration with Ryan Gorley at Dijt(now Freehive)."
     },
     {
         "ID": "strata2",
         "Project": "Strata iPad Enclosure",
-        "ImageUrl": "./assets/images/strat7.jpg",
-        "Tile": "./assets/images/strat7SML.png",
+        "ImageUrl": "./assets/images/built/strat7.jpg",
+        "Tile": "./assets/images/built/strat7SML.png",
         "Description": "Design, prototyping, and fabrication drawings for a series of tamper-proof tablet enclosure designed for multiple tablets and credit card readers. Designed in collaboration with Ryan Gorley at Dijt(now Freehive)."
     },
     {
         "ID": "zaha",
         "Project": "Zaha iPad Stand",
-        "ImageUrl": "./assets/images/zaha_2.jpg",
-        "Tile": "./assets/images/zahaSml.jpg",
+        "ImageUrl": "./assets/images/built/zaha_2.jpg",
+        "Tile": "./assets/images/built/zahaSml.jpg",
         "Description": "Design and fabrication drawings for a powder coated steel iPad stand with 4 different viewing angles."
     },
     {
         "ID": "zaha2",
         "Project": "Zaha iPad Stand",
-        "ImageUrl": "./assets/images/zaha2.jpg",
-        "Tile": "./assets/images/zaha2SML.png",
+        "ImageUrl": "./assets/images/built/zaha2.jpg",
+        "Tile": "./assets/images/built/zaha2SML.png",
         "Description": "Design and fabrication drawings for a powder coated steel iPad stand with 4 different viewing angles."
     },
     {
         "ID": "dijt",
         "Project": "Dijt Studio Interior",
-        "ImageUrl": "./assets/images/studio4.jpg",
-        "Tile": "./assets/images/studio4SML.png",
+        "ImageUrl": "./assets/images/built/studio4.jpg",
+        "Tile": "./assets/images/built/studio4SML.png",
         "Description": "Design and construction of the Dijt design studio.  Utilizing inexpensive building materials and repurposed IKEA table tops to build a creative solution for a meeting space and studio in a small footprint. "
     },
     {
         "ID": "dijt2",
         "Project": "Dijt Studio Interior",
-        "ImageUrl": "./assets/images/studio1.jpg",
-        "Tile": "./assets/images/studio1SML.png",
+        "ImageUrl": "./assets/images/built/studio1.jpg",
+        "Tile": "./assets/images/built/studio1SML.png",
         "Description": "Design and construction of the Dijt design studio.  Utilizing inexpensive building materials and repurposed IKEA table tops to build a creative solution for a meeting space and studio in a small footprint. "
     },
     {
         "ID": "dijt3",
         "Project": "Dijt Studio Interior Signage",
-        "ImageUrl": "./assets/images/studio9.jpg",
-        "Tile": "./assets/images/studio9SML.png",
+        "ImageUrl": "./assets/images/built/studio9.jpg",
+        "Tile": "./assets/images/built/studio9SML.png",
         "Description": "Fabrication and installation of Dijt sign for studio interior using cast concrete."
     }
 ]

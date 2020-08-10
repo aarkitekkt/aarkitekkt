@@ -2,85 +2,85 @@
     {
         "ID": "glasshouse",
         "Project": "Modern House Exterior",
-        "ImageUrl": "./assets/images/arch3.JPG",
-        "Tile": "./assets/images/arch3SML.png"
+        "ImageUrl": "./assets/images/3d/arch3.JPG",
+        "Tile": "./assets/images/3d/arch3SML.png"
     },
     {
         "ID": "honeycomb",
         "Project": "Honeycomb Building Exterior",
-        "ImageUrl": "./assets/images/arch5.JPG",
-        "Tile": "./assets/images/arch5SML.png"
+        "ImageUrl": "./assets/images/3d/arch5.JPG",
+        "Tile": "./assets/images/3d/arch5SML.png"
     },
     {
         "ID": "lattice",
         "Project": "Lattice Building",
-        "ImageUrl": "./assets/images/arch2.JPG",
-        "Tile": "./assets/images/arch2SML.png"
+        "ImageUrl": "./assets/images/3d/arch2.JPG",
+        "Tile": "./assets/images/3d/arch2SML.png"
     },
     {
         "ID": "office",
         "Project": "Office Building Interior",
-        "ImageUrl": "./assets/images/Atrium-comp-d3.jpg",
-        "Tile": "./assets/images/intSml.jpg"
+        "ImageUrl": "./assets/images/3d/Atrium-comp-d3.jpg",
+        "Tile": "./assets/images/3d/intSml.jpg"
     },
     {
         "ID": "midCentruy",
         "Project": "Mid Century Modern Interior",
-        "ImageUrl": "./assets/images/arch4.JPG",
-        "Tile": "./assets/images/arch4SML.png"
+        "ImageUrl": "./assets/images/3d/arch4.JPG",
+        "Tile": "./assets/images/3d/arch4SML.png"
     },
     {
         "ID": "bathroom",
         "Project": "Modern Bathroom Interior",
-        "ImageUrl": "./assets/images/arch6.JPG",
-        "Tile": "./assets/images/arch6SML.png"
+        "ImageUrl": "./assets/images/3d/arch6.JPG",
+        "Tile": "./assets/images/3d/arch6SML.png"
     },
     {
         "ID": "studentHousing",
         "Project": "Student Housing Exterior",
-        "ImageUrl": "./assets/images/arch7.JPG",
-        "Tile": "./assets/images/arch7SML.png"
+        "ImageUrl": "./assets/images/3d/arch7.JPG",
+        "Tile": "./assets/images/3d/arch7SML.png"
     },
     {
         "ID": "sunglasses",
         "Project": "Sunglasses Animation",
-        "ImageUrl": "./assets/images/sunglass_2.png",
-        "Tile": "./assets/images/sunSml.png"
+        "ImageUrl": "./assets/images/3d/sunglass_2.png",
+        "Tile": "./assets/images/3d/sunSml.png"
     },
     {
         "ID": "particleGlasses",
         "Project": "Particle Sunglasses",
-        "ImageUrl": "./assets/images/meta-glasses.png",
-        "Tile": "./assets/images/metaSML.png"
+        "ImageUrl": "./assets/images/3d/meta-glasses.png",
+        "Tile": "./assets/images/3d/metaSML.png"
     },
     {
         "ID": "phone",
         "Project": "Mobile Phone Rendering",
-        "ImageUrl": "./assets/images/phone_2.jpg",
-        "Tile": "./assets/images/phoneSml.jpg"
+        "ImageUrl": "./assets/images/3d/phone_2.jpg",
+        "Tile": "./assets/images/3d/phoneSml.jpg"
     },
     {
         "ID": "sne1",
         "Project": "SNE iPad Stand Rendering",
-        "ImageUrl": "./assets/images/dijt-SNE-1.jpg",
-        "Tile": "./assets/images/sne1SML.png"
+        "ImageUrl": "./assets/images/3d/SNEwhite_0161.png",
+        "Tile": "./assets/images/3d/sne1SML.png"
     },
     {
         "ID": "sne2",
         "Project": "SNE iPad Stand Rendering",
-        "ImageUrl": "./assets/images/SNEwhite_0161.png",
-        "Tile": "./assets/images/sne2SML.png"
+        "ImageUrl": "./assets/images/3d/dijt-SNE-1.jpg",
+        "Tile": "./assets/images/3d/sne2SML.png"
     },
     {
         "ID": "monster",
         "Project": "Monster Energy Animation",
-        "ImageUrl": "./assets/images/Monster_0016.png",
-        "Tile": "./assets/images/monsterSML.png"
+        "ImageUrl": "./assets/images/3d/Monster_0016.png",
+        "Tile": "./assets/images/3d/monsterSML.png"
     },
     {
         "ID": "rockstar",
         "Project": "Rockstar Energy Animation",
-        "ImageUrl": "./assets/images/Rockstar_0249.png",
-        "Tile": "./assets/images/rockstarSML.png"
+        "ImageUrl": "./assets/images/3d/Rockstar_0249.png",
+        "Tile": "./assets/images/3d/rockstarSML.png"
     }
 ]
